@@ -1,2 +1,2 @@
-# createdavss2017
+# create davss2017
 CREATE DAV Summer School
