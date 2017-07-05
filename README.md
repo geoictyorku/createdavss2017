@@ -1,2 +1,2 @@
 # A repository for CREATE DAV Summer School 2017
-This is a repository for Hands-on Activities.
+This is a repository for hands-on activities.
