@@ -1,2 +1,3 @@
 # A repository for CREATE DAV Summer School 2017
-This is a repository for hands-on activities.
+This is a repository for hands-on activities "3D Scanning and Augmentation" on July 5 2017.
+
